@@ -12,4 +12,4 @@ Me chamo Guilherme Pires Cardozo, tenho 22 anos e sou natural do Parana. Conclu�
 
 **`Estagiário em FrontEnd:`** Desempenhei o papel de resolver problemas e a adição de melhorias aos usuários.
 
-**`Professor de Informatica:`** Dei aulas sobre hardware e software em uma rede de cursos.
+**`Professor de Informatica:`** Ministrei aulas sobre hardware e software em uma rede de cursos.
